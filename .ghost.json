@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.deepinder.me",
+    "contentApiKey": "6cdf1356c6e3cb7ae00d327ae5"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.deepinder.me",
+    "contentApiKey": "6cdf1356c6e3cb7ae00d327ae5"
   }
 }
